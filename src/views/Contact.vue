@@ -6,10 +6,10 @@
 
 <script>
     export default {
-        name: 'about',
+        name: 'contact',
         data () {
             return {
-                msg: 'This is the about page'
+                msg: 'This is the contact page'
             }
         }
     }
